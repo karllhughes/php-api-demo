@@ -4,6 +4,8 @@
 
 This demo application uses [v1 of the PHP-CRUD-API project](https://github.com/mevdschee/php-crud-api/tree/v1).
 
+![](https://i.imgur.com/8oVQ3zE.gif)
+
 ## Docker Setup instructions
 
 - Clone this repo.
